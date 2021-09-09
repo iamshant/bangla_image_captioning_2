@@ -24,7 +24,7 @@ Note that we perform validation at the end of every training epoch.
 
 
 
-**Inference**
+# Inference
 
 To **caption an image** from the command line, point to the image, model checkpoint, word map (and optionally, the beam size) as follows –
 
